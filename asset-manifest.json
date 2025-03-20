@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Dr.Reminder/static/css/main.af1fbf84.css",
+    "main.js": "/Dr.Reminder/static/js/main.fe0a8ac2.js",
+    "static/js/239.30610762.chunk.js": "/Dr.Reminder/static/js/239.30610762.chunk.js",
+    "static/js/977.9d6dd262.chunk.js": "/Dr.Reminder/static/js/977.9d6dd262.chunk.js",
+    "static/js/732.578c2a1d.chunk.js": "/Dr.Reminder/static/js/732.578c2a1d.chunk.js",
+    "static/media/hospital-image.jpg": "/Dr.Reminder/static/media/hospital-image.19717e7259de558f9f93.jpg",
+    "index.html": "/Dr.Reminder/index.html",
+    "main.af1fbf84.css.map": "/Dr.Reminder/static/css/main.af1fbf84.css.map",
+    "main.fe0a8ac2.js.map": "/Dr.Reminder/static/js/main.fe0a8ac2.js.map",
+    "239.30610762.chunk.js.map": "/Dr.Reminder/static/js/239.30610762.chunk.js.map",
+    "732.578c2a1d.chunk.js.map": "/Dr.Reminder/static/js/732.578c2a1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af1fbf84.css",
+    "static/js/main.fe0a8ac2.js"
+  ]
+}
